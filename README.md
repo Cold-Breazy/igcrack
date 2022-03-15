@@ -31,10 +31,6 @@ Igcrack is a python based script which is officially made for Cracking instagram
 
 * ` git clone https://github.com/Cold-Breazy/igcrack `
 * ` cd igcrack `
-* ` tar -xvf core.tar.gz `
-* ` tar -xvf main.tar.gz `
-* ` tar -xvf pass.tar.gz `
-* ` tar -xvf stylesheets.tar.gz `
 * ` bash setup.sh `
 * ` bash igcrack.sh ` 
 
